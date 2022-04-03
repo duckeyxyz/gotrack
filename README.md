@@ -1,2 +1,4 @@
-# Pytrack
-A Phyton tracker program for anime
+# Gotrack
+A Go tracker program for Anime
+
+( Work in progress )
